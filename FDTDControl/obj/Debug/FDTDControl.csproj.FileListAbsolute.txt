@@ -3,3 +3,8 @@ F:\火狐下载\FDTDControl\FDTDControl\bin\Debug\FDTDControl.pdb
 F:\火狐下载\FDTDControl\FDTDControl\obj\Debug\FDTDControl.csprojResolveAssemblyReference.cache
 F:\火狐下载\FDTDControl\FDTDControl\obj\Debug\FDTDControl.exe
 F:\火狐下载\FDTDControl\FDTDControl\obj\Debug\FDTDControl.pdb
+C:\Users\Administrator\Desktop\FDTDControl\FDTDControl\obj\Debug\FDTDControl.exe
+C:\Users\Administrator\Desktop\FDTDControl\FDTDControl\obj\Debug\FDTDControl.pdb
+C:\Users\Administrator\Desktop\FDTDControl\FDTDControl\bin\Debug\FDTDControl.exe
+C:\Users\Administrator\Desktop\FDTDControl\FDTDControl\bin\Debug\FDTDControl.pdb
+C:\Users\Administrator\Desktop\FDTDControl\FDTDControl\obj\Debug\FDTDControl.csprojResolveAssemblyReference.cache

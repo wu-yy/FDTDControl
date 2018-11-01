@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -46,7 +46,6 @@ namespace FDTDControl
             int y1 = y;
             while (true)
             {
-
                 Point p = new Point(1, 1);//定义存放获取坐标的point变量   
                 MouseHookHelper.GetCursorPos(ref p);
 
@@ -59,8 +58,6 @@ namespace FDTDControl
                     x1 = p.X;
                     y1 = p.Y;
                 }
-
-
             }
         }
 
@@ -105,9 +102,7 @@ namespace FDTDControl
                 "Lumerical FDTD Solutions - Layout - test.fsp [C:/Users/Administrator/Desktop]");
             if (awin == IntPtr.Zero)
             {
-                MessageBox.Show("没有找到窗体");
-
-         
+                MessageBox.Show("没有找到窗体");        
                 return;
             }
             else
